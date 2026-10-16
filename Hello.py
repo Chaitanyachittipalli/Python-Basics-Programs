@@ -1,0 +1,6 @@
+print("Hello World")
+print("Addition:", 10 + 5)
+print("Subtraction:", 10 - 5)
+print("Multiplication:", 10 * 5)
+print("Division:", 10 / 5)
+print("Modulus:", 10 % 5)
